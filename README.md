@@ -30,7 +30,7 @@ Check out the live demo [here](#) (add your live demo link).
 
 ## Screenshots 📸
 
-![Weather Janiye Screenshot](src/assets/screenshot.png)
+![Menu Screenshot](src/assets/screenshot.png)
 
 ## 🏁 Getting Started
 Follow these steps to get a copy of the project up and running on your local machine.
