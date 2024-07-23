@@ -1,13 +1,10 @@
-Sure, I've updated the README to include your username and correct the location of the `Data.js` file.
-
----
 
 # 🍽️ Menu Page
 
 Welcome to the Menu Page repository! This project is a sub-functionality implementation for a food ordering app, showcasing a dynamic menu page built with React, Tailwind CSS, and Vite. Users can filter menu items based on categories, making it an interactive and user-friendly component for any food-related application.
 
 ## 🚀 Live Demo
-Check out the live demo [here](#) (add your live demo link).
+Check out the live demo : (https://main--menu-items-00.netlify.app/).
 
 ## 📋 Table of Contents
 - [Features](#features)
